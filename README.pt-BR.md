@@ -12,7 +12,7 @@
 
 [**Rodar no seu computador**](#rodar-no-seu-computador) · [**Novidades**](#o-que-tem-de-novo) · [**Controles**](#controles) · [**Read in English**](README.md)
 
-![Command Express: o escritório na rua, com a cidade atrás](docs/media/street.png)
+![Command Express: correndo pela avenida até a cidade, o mapa e o editor de personagem](docs/media/tour.gif)
 
 </div>
 

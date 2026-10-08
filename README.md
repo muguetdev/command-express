@@ -14,7 +14,7 @@
 
 [**Run locally**](#run-locally) · [**What's new**](#whats-new-in-command-express) · [**Features**](docs/features.md) · [**Controls**](#controls) · [**Leia em português**](README.pt-BR.md)
 
-![Command Express: the office on its street, the city behind it](docs/media/street.png)
+![Command Express: running up the avenue into the city, the map, and the character editor](docs/media/tour.gif)
 
 </div>
 
